@@ -22,6 +22,3 @@ Desafio 03 - Criando um hook de carrinho de compras
 - [x] Cálculo dos preços sub-total e total do carrinho;
 - [x] Validação de estoque;
 - [x] Exibição de mensagens de erro;
-
-## 👨‍🎓 Nota
-<img src="./.github/grade.png" alt="Nota do desafio">
